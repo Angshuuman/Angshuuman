@@ -45,6 +45,5 @@ also a equity and crypto investor.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=RPGTheGreat&show_icons=true&theme=tokyonight&hide=["issues"])
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=RPGTheGreat&show_icons=true&theme=tokyonight&layout=compact)
 
 ### Thanks for reading through my profile! Have a great day!
