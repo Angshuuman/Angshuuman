@@ -1,17 +1,21 @@
 # Hi there 👋
-## I'm RPGTheGreat
+## I'm Angshuuman
 
 > Looks like you find my profile in this magical place called `GitHub`!
 
 - 👤 About me 
   - Who am i?
-    - I'm a Full Stack Developer and I'm also a designer and a hacker.
+    - I'm a passionate trader and
+also a equity and crypto investor.
   - What do i work on?
-    - I mainly work on `Discord bots` and `apps` and `websites` also `npm packages`
+    - I mainly work on `Forex` and `Futures Trading` and `Equity Investing` also `Crypto Investing`
   - How can you reach out to me?
-    - You can contact with me in my discord server [discord](https://discord.gg/yqAGXbz)
+    - You can contact with me-
+[Discord](https://discord.gg/yqAGXbz)
+[Instagram](https://instagram.com/traders_dan)
+[X](https://x.com/heyyangshu]
   - Can i contribute in your projects?
-    - Well of course you can but the best thing to do is to ask me to by in my DMs on Discord
+    - Well of course you can but the best thing to do is to ask me to by in my DMs
 - <img src="https://discordia.me/uploads/badges/verified_developer_badge.png" width=30> My projects
   - **BLACKFOX v2.0** the Discord bot
     - I mainly work on this bot aka my main project I've made this 6 months old and some reason it can't be verified we hope it's verified soon!
