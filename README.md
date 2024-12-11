@@ -11,9 +11,12 @@ also a equity and crypto investor.
     - I mainly work on `Forex` and `Futures Trading` and `Equity Investing` also `Crypto Investing`
   - How can you reach out to me?
     - You can contact with me-
+    - 
 [Discord](https://discord.gg/yqAGXbz)
+
 [Instagram](https://instagram.com/traders_dan)
-[X](https://x.com/heyyangshu]
+
+[X](https://x.com/heyyangshu)
   - Can i contribute in your projects?
     - Well of course you can but the best thing to do is to ask me to by in my DMs
 - <img src="https://discordia.me/uploads/badges/verified_developer_badge.png" width=30> My projects
