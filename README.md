@@ -19,26 +19,6 @@ also a equity and crypto investor.
 [X](https://x.com/heyyangshu)
   - Can i contribute in your projects?
     - Well of course you can but the best thing to do is to ask me to by in my DMs
-  - My projects
-  - **BLACKFOX v2.0** the Discord bot
-    - I mainly work on this bot aka my main project I've made this 6 months old and some reason it can't be verified we hope it's verified soon!
-    - **Discord Bot List** the Discord bot
-    - Bot help us to do our bot list stuff very easily
-  - **Assistant** the Discord bot
-  - Bot help us to do our web work easily
-  - **People+** the Discord bot
-  - Bot help you to grow you're server like fast and crazy
-  - **Virtual Private Server** the Discord bot
-  - Bot help you to make you're glitch projects alive 24/7
-  - **antispam-guard** the npm package
-   - A very powerful module help you to make AUTOMOD stuff very easily!  (`npm i antispam-guard`)
-  - **userinfo-github** the npm package
-    - A simple module help you to get github user information! (`npm i userinfo-github`)
-   - **lavaplayer** the npm package
-   - A very high quality music package gives you quality like Rythm,Groov(`npm i lavaplayer`)
-- ❓ Why is this a long profile?
-  - _Because I don't know!_
-
 
 
 ### Stats
