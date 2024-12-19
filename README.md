@@ -21,9 +21,5 @@ also a equity and crypto investor.
     - Well of course you can but the best thing to do is to ask me to by in my DMs
 
 
-### Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=RPGTheGreat&show_icons=true&theme=tokyonight&hide=["issues"])
-
 
 ### Thanks for reading through my profile! Have a great day!
